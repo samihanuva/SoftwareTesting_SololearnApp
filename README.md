@@ -5,10 +5,10 @@ Here, I have designed and validated the test cases witten for "Introduction to P
 I am briefly discussing the procedure of preparing the test cases below:
 
 ### Requirement analysis: 
-Installed the app and tried to understand its features and functionalities.
-Identified what types of tests to perform.
-Decided which features should be prioritized for testing.
-Identified test environment.
+* Installed the app and tried to understand its features and functionalities.
+* Identified what types of tests to perform.
+* Decided which features should be prioritized for testing.
+* Identified test environment.
 
 
 ### Test planning:
